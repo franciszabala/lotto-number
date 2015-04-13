@@ -2,7 +2,7 @@
 
 import java.util.Random;
 
-class wenax2 {
+class wenax {
 	public static void main (String []arg){
 		Random lotto = new Random();
 		int number;
